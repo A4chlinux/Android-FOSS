@@ -1,6 +1,6 @@
 # Android FOSS
 
-[![CI](https://github.com/A4chlinux/Android-foss/workflows/ci/badge.svg)](https://github.com/offa/android-foss/actions)
+[![CI](https://github.com/A4chlinux/Android-foss/workflows/ci/badge.svg)](https://github.com/A4chlinux/Android-foss/actions)
 [![License](https://img.shields.io/badge/license-GPLv3-yellow.svg)](LICENSE)
 
 A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
