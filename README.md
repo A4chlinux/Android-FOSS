@@ -172,7 +172,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Browser
 
-* [**Helium **](https://github.com/jqssun/android-helium-browser)
+* [**Helium**](https://github.com/jqssun/android-helium-browser)
 * [**Cromite**](https://github.com/uazo/cromite)
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/packages/com.duckduckgo.mobile.android)]**</sup>
 * [**EinkBro**](https://github.com/plateaukao/browser) <sup>**[[F-Droid](https://f-droid.org/packages/info.plateaukao.einkbro)]**</sup>
